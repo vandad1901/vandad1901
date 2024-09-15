@@ -1,12 +1,10 @@
-<h2>
-About Me
-</h2>
+## About Me
 
-Aspiring fullstack developer from Iran. currently learning and experimenting with everything but doing nothing serious. You can reach me for personal queries at ```vandad1901@gmail.com```.
+Iranian developer studying CS at Amirkabir University of Technology. For a full resume consult [here](https://github.com/vandad1901/Resume/blob/main/VandadDelavari.pdf)
 
-<h3>
-Known Languages
-</h3>
+### Notable Projects
+[mcs-ssc-bot](https://github.com/vandad1901/mcs-ssc-bot)
 
-I know python and have used it extensively. I also know C++ and java but I've never used them for a project
-currently learning rust
+[Aknoon Gallery Website](https://github.com/vandad1901/aknoon-gallery), [Website link](https://aknoongallery.com)
+
+[P2P chat app with qt](https://github.com/vandad1901/P2P-chat)
